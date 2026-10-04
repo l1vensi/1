@@ -71,6 +71,11 @@
       "sha256": "40808b4094b8e4987c14211f4c021ad42c3a4ac2543f6af4163b8020016b0925"
     },
     {
+      "filename": "ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/1/main/ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar",
+      "sha256": "5aab7282d287a7de64d6be4e20f4c3b9c577add436ac89fd643b6ce9b4445738"
+    },
+    {
       "filename": "ScorchedGuns-1.5-1.21.1-neoforge.jar",
       "url": "https://raw.githubusercontent.com/l1vensi/1/main/ScorchedGuns-1.5-1.21.1-neoforge.jar",
       "sha256": "6a4237c518fa36a56d3bf2a269fad508e2f4053a51e9c43381709b09806c2001"
@@ -606,6 +611,11 @@
       "filename": "Better-Leaves-9.5.zip",
       "url": "https://raw.githubusercontent.com/l1vensi/1/main/resourcepacks/Better-Leaves-9.5.zip",
       "sha256": "5480640cb2f7674da4f2897ebc48b29a436706614160f4d4d8ad0ead5150fea6"
+    },
+    {
+      "filename": "MyBackgroundPack.zip",
+      "url": "https://raw.githubusercontent.com/l1vensi/1/main/resourcepacks/MyBackgroundPack.zip",
+      "sha256": "48b7db789a56b6e9fc2934ec00ff4b34c7f4555f903a4fc569593d2419715eb2"
     },
     {
       "filename": "Russian-Radars-and-Cannons.zip",
