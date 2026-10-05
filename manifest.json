@@ -12,7 +12,7 @@
     },
     {
       "filename": "CreateNumismatics-1.0.20%2Bneoforge-mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/l1vensi/1/main/CreateNumismatics-1.0.20%2Bneoforge-mc1.21.1.jar",
+      "url": "https://github.com/l1vensi/1/releases/download/v1.0/CreateNumismatics-1.0.20.2Bneoforge-mc1.21.1.jar",
       "sha256": "1375ba1b50e53fd09435029b5b2d5b94779ba397cca7e01180d07b0f624e5b9b"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "filename": "L_Ender-s-Cataclysm-1.21.1-3.33-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/l1vensi/1/main/L_Ender-s-Cataclysm-1.21.1-3.33-1.21.1.jar",
+      "url": "https://github.com/l1vensi/1/releases/download/v1.0/L_Ender-s-Cataclysm-1.21.1-3.33-1.21.1.jar",
       "sha256": "371956d0c2e3b56729ee93b955e936875d210e372fe734cdb74326d89ef79875"
     },
     {
@@ -107,7 +107,7 @@
     },
     {
       "filename": "alexscaves-2.0.10.jar",
-      "url": "https://raw.githubusercontent.com/l1vensi/1/main/alexscaves-2.0.10.jar",
+      "url": "https://github.com/l1vensi/1/releases/download/v1.0/alexscaves-2.0.10.jar",
       "sha256": "6fad35bf07fcb977aaa32d3fe05bf122150c6a30ed16b057385040207a3b788f"
     },
     {
@@ -177,7 +177,7 @@
     },
     {
       "filename": "create-aeronautics-bundled-1.21.1-1.3.0.jar",
-      "url": "https://raw.githubusercontent.com/l1vensi/1/main/create-aeronautics-bundled-1.21.1-1.3.0.jar",
+      "url": "https://github.com/l1vensi/1/releases/download/v1.0/create-aeronautics-bundled-1.21.1-1.3.0.jar",
       "sha256": "482c90e0e6fe72f33fe7abb079e5fda581cd660ee53c38c44448a64283e1044c"
     },
     {
@@ -237,12 +237,12 @@
     },
     {
       "filename": "createbigcannons-5.11.7%2Bmc.1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/l1vensi/1/main/createbigcannons-5.11.7%2Bmc.1.21.1.jar",
+      "url": "https://github.com/l1vensi/1/releases/download/v1.0/createbigcannons-5.11.7.2Bmc.1.21.1.jar",
       "sha256": "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca"
     },
     {
       "filename": "createcobblestone-1.4.11%2Bneoforge-1.21.1-140.jar",
-      "url": "https://raw.githubusercontent.com/l1vensi/1/main/createcobblestone-1.4.11%2Bneoforge-1.21.1-140.jar",
+      "url": "https://github.com/l1vensi/1/releases/download/v1.0/createcobblestone-1.4.11.2Bneoforge-1.21.1-140.jar",
       "sha256": "18a9394c551db01a7b18293678c0bb143098c05e8ee81fa52bf9c809e5f7986c"
     },
     {
@@ -661,7 +661,7 @@
     },
     {
       "filename": "iterationT3.2.0 (1).zip",
-      "url": "https://raw.githubusercontent.com/l1vensi/1/main/shaderpacks/iterationT3.2.0 (1).zip",
+      "url": "https://github.com/l1vensi/1/releases/download/v1.0/iterationT3.2.0.1.zip",
       "sha256": "c0735d5f1de0edca2b1c155dae1c650ddb8d2d04a3ebdd3d2ff74dd7a19db116"
     }
   ]
